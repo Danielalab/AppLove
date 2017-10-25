@@ -132,6 +132,11 @@ section.home div.container a {
   padding: 12px 20px;
 }
 
+section.home div.container a:hover {
+  color: #E95853;
+  font-weight: bold;
+}  
+
 section.home div.container h2 {
   font-size: 20px;
   padding-bottom: 3%;
