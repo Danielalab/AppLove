@@ -154,8 +154,6 @@ section.home div.container , .services{
 .services {
   background-color: #f17c72;
   width: 96.5%;
-  margin-left: auto;
-  margin-right: auto;
   margin: 0 auto;
   box-sizing: border-box;
 }
@@ -183,11 +181,25 @@ h5 {
   width: 200px;
 }
 
-.work div.container img {
-  width: 90%;
+.work {
+  background-color: #ffffff;
+  width: 96.5%;
+  margin: 0 auto;
+  box-sizing: border-box;
 }
 
-figure img {
+.work div.container h2 {
+  font-size: 27px;
+  margin: 5% auto;
+  margin-bottom: 2%;
+}  
+
+.work div.container img {
+  width: 90%;
+  margin-top: 2%;
+}
+
+figure {
   display: inline-block;
   width: 25%;
   margin: 2% 2.5%; 
