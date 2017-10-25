@@ -71,3 +71,134 @@ a:hover {
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
 
+*{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+header div{
+  width: 100%;
+  height: 100px;
+  box-sizing: border-box;
+  background-color:white; 
+  position:fixed;
+}
+
+img.logo {
+  display: inline-block;
+  height: 70px;
+  margin: 15px 60px;
+  position: absolute;
+  left: 78%;
+}
+
+header div nav {
+  width: 40%;
+  position: relative;
+  top: 30px;
+  right: 23%;
+  display: inline-block;
+}
+
+nav a {
+  font-weight: 900;
+  display: inline-block;
+  margin: 0 8%;
+}
+
+div.empty-box{
+  height: 100px;
+}
+
+section.home {
+  top: 100px;
+  width: 96.5%;
+  margin: 0 auto;
+  display: inline-block;
+  height: 519px;
+  background-image: url('../assets/images/bg-home.jpg');
+}
+
+section.home div.container{
+  margin-top: 4.5%;
+}
+
+section.home div.container a {
+  color:white;
+  background-color: #2ecc71;
+  display: inline-block;
+  margin: 0 auto;
+  margin-top: 3.5%;
+  padding: 12px 20px;
+}
+
+section.home div.container h2 {
+  font-size: 20px;
+  padding-bottom: 3%;
+}
+
+section.home div.container h1 {
+  font-size: 43px;
+  margin:0;
+  display: inline-block;
+}
+
+section.home div.container p {
+  padding-bottom:2%; 
+}  
+
+section.home div.container , .services{
+  color: white;
+}
+
+.services {
+  background-color: #f17c72;
+  width: 96.5%;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.services div.container div {
+  display: inline-block;
+  margin: 3% 5%; 
+}
+
+.services div.container h2{
+  font-size: 27px;
+  margin: 5% auto;
+  margin-bottom: 2%;
+}  
+
+.services div.container h6{
+  margin: 0 auto;
+}  
+
+h5 {
+  margin-bottom:0 ;
+}
+
+.services div.container div img {
+  width: 200px;
+}
+
+.work div.container img {
+  width: 90%;
+}
+
+figure img {
+  display: inline-block;
+  width: 25%;
+  margin: 2% 2.5%; 
+}
+
+footer {
+  background-color: #373b47;
+  color: white;
+  height: 70px; 
+}
+
+footer p {
+  padding-top: 1.5%;
+}
