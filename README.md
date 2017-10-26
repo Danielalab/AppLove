@@ -31,7 +31,7 @@ El reto consiste en maquetar la web **AppLove**, este es el resultado final:
 
     ```CSS
     .text-uppercase {
-      text-transform: uppercase;
+    text-transform: uppercase;
     }
     ```
 
@@ -57,3 +57,11 @@ Este reto sera evaluado sobre lo siguiente:
 - Estructura de tus archivos
 - Archivo `README.md` actualizado y correctamente redactado
 - Uso de comentarios para hacer tu código más legible
+
+## Detalles del Repositorio
+Todo los archivos que se encuentran en este repositorio son una actualizacion de la plantilla inicial de archivos del repositorio [AppLove de Ruth Salvador](https://github.com/Laboratoria/AppLove "titulo"):
+- En el repositorio se encuentra un archivo *index.html* en el cual se añade diversas rutas de imágenes que se ultilizan para el producto final; además se añaden clases a distintas etiquetas de la estrutura.
+- La carpeta assets/images contiene distintas fotogras de diversos proyectos que realizo la web AppLove y algunas images que se utilizan para el diseño de la web como el logo o el fondo de una sección.
+-La carpeta css contine un archivo main.css en el cual se encuentran todos los estilos usados en el proyecto.
+Además el archivo muestra una sección de estilos reutilizables los cuales son del repostorio de inicio y los siguientes estilos son los agregados para la mejora del diseño del proyecto.
+
